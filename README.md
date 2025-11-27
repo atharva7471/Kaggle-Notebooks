@@ -51,7 +51,13 @@ cd kaggle-notebooks
 cd Titanic   # example; replace with your folder name
 jupyter notebook titanic-survival-prediction.ipynb
 pip install -r requirements.txt #(Optional) Install required libraries
+```
+---
+
+🤝 Contributions
+
+Feedback and suggestions are always welcome!
+This repository will grow as I work on more Kaggle competitions.
 
 ---
 
-If you want, I can now generate the **final full README file** including this section integrated.
