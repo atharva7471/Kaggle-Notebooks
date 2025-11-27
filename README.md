@@ -8,7 +8,7 @@ This repository contains all of my Kaggle notebooks, organized by competition an
 
 - **Full Kaggle notebooks** (`.ipynb`)  
 - **Submission files** (`submission.csv`)  
-- **Experiment notes (optional)**    
+- **Experiment notes (optional)**  
 - **Competition links** for reference  
 
 ---
@@ -37,26 +37,21 @@ This repository contains all of my Kaggle notebooks, organized by competition an
 - Pandas  
 - NumPy  
 - Scikit-learn  
-- Matplotlib / Seaborn (when used)  
+- Matplotlib / Seaborn  
 - XGBoost / LightGBM (for future projects)
 
 ---
 
 ## 📦 How to Use
 
-# Clone the repository
+### Clone the repository
+```bash
 git clone https://github.com/atharva7471/kaggle-notebooks.git
-
-# Move into the project directory
 cd kaggle-notebooks
-
-# Navigate to any competition folder
 cd Titanic   # example; replace with your folder name
-
-# Open the notebook
 jupyter notebook titanic-survival-prediction.ipynb
+pip install -r requirements.txt #(Optional) Install required libraries
 
-# (Optional) Install required libraries
-pip install -r requirements.txt
+---
 
-
+If you want, I can now generate the **final full README file** including this section integrated.
